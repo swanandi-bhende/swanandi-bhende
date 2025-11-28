@@ -22,6 +22,7 @@ My work revolves around building intelligent, decentralized solutions that blend
 
 ### Technical
 - Solidity, Hardhat, Truffle, Ganache, ether.js, web3.js
+- JavaScript/ TypeScript
 - Python  
 - Fullstack Development  
 - C/C++
@@ -37,19 +38,5 @@ My work revolves around building intelligent, decentralized solutions that blend
 
 ---
 
-## Work Experience
 
-### Web3 Head — Google Developer Group (GDG) on Campus, VIT
-Leading Web3 R&D and developer-focused initiatives.
-
-### Blockchain Secretary — Computer Society of India (CSI), VIT
-Managing blockchain development and event structuring.
-
-### Web3 Coordinator — Microsoft Learn Students Club (MLSC), VIT
-Working on Web3 development and technical outreach.
-
-### Pune Community Lead — Exora
-Managing and growing the Exora Web3 community in Pune.
-
----
 
