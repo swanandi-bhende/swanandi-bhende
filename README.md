@@ -7,11 +7,7 @@
 
 ---
 
-I am a second-year student in India pursuing a Bachelor of Technology in Computer Science. I have been active in the Web3 space for over a year, initially as a research and community member, and now focusing on dev. 
-
-I have participated in multiple Web3 hackathons such as ETH Global New Delhi, ETH Online, Somnia Data Streams Hackathon, and more. I also have experience working within the Ethereum ecosystem.  
-
-My work revolves around building intelligent, decentralized solutions that blend machine learning, automation, and blockchain to create scalable and impactful products.
+I am a CS student and my work revolves around building intelligent, decentralized solutions that blend artificial intelligence, machine learning and blockchain to create scalable and impactful products.
 
 
 
