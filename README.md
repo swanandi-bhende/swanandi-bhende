@@ -13,26 +13,3 @@ I am a CS student and my work revolves around building intelligent, decentralize
 
 
 ---
-
-## Skills
-
-### Technical
-- Solidity, Hardhat, Truffle, Ganache, ether.js, web3.js
-- JavaScript/ TypeScript
-- Python  
-- Fullstack Development  
-- C/C++
-- Git & GitHub  
-- DevRel  
-
-### Leadership & Communication
-- DevRel
-- Team Management  
-- Public Relations  
-- Public Speaking  
-- Community Leadership  
-
----
-
-
-
