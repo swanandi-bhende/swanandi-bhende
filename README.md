@@ -7,7 +7,7 @@
 
 ---
 
-I am a CS student and my work revolves around building intelligent, decentralized solutions that blend artificial intelligence, machine learning and blockchain to create scalable and impactful products.
+Product-minded engineer who builds production-grade systems
 
 
 
